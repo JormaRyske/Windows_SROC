@@ -1,4 +1,5 @@
 # Windows_SROC
-Microsoft VB program to control Sliding Roof Observatory via ArduinoUno&amp;ArduinoRelayShield 
-Arduino Uno connected via USB serialcom to laptop
+Microsoft VB program "SROC" for Sliding Roof Observatory Control sending commands to ArduinoUno&amp;ArduinoRelayShield.
+Arduino Uno is connected via USB serialcom to laptop.
+Arduino Relay Shield relays are connected to "Sfeomi 200W Sliding Gate" motor unit.
 Jorma Ryske 1.8.2021
